@@ -17,3 +17,6 @@ In this lab, I was able to create an Active Directory home lab Environment using
 
 <h2> Program Walk Through</h2>
 
+cimg src="https://i.imgur.com/LoXy41z.png" height="88%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+VFo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
