@@ -1,3 +1,19 @@
-# Active-Directory-Lab
+<h1>Active Directory Home Lab<br/> 
 
-In this lab we're going to walk through how to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab will definitely help develop your understanding of how active directory and windows networking works, so l'd highly recommend running through it a couple times, ask questions where stuff is unclear, and eventually try to build it on your own without watching. Please let me know if you have any questions!
+<h2>Description</h2>
+In this lab, I was able to create an Active Directory home lab Environment using Oracle Virtual Box. Configuring and running this lab helped develop my understanding of how active directory and Windows networking works, so l'd highly recommend giving this lab a try in order to familiarize yourself with domain and networking environments. Please let me know if you have any questions!
+
+
+<h2> Languages and Utilities Used</h2>
+
+- PowerShell 
+- Oracle VirtualBox
+
+
+<h2> Environments Used</h2>
+
+- Windows 10 (21H2)
+- Windows Server 2019
+
+<h2> Program Walk Through</h2>
+
